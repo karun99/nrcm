@@ -1,0 +1,17 @@
+{
+  "app": {
+    "name": "nrcm",
+    "version": "unknown",
+    "description": ""
+  },
+  "stack": "static",
+  "routes": [],
+  "pages": [
+    "web/index.html"
+  ],
+  "base_url": "http://localhost:8000",
+  "module": null,
+  "server": "mcp-server/mcp_server.py",
+  "runner": "python",
+  "runner_cmd": "python3"
+}

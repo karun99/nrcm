@@ -1,0 +1,10 @@
+{
+  "name": "nrcm",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "start": "python3 -m http.server 8080",
+    "test": "python3 -m unittest discover -s tests -p \"test_mcp_server.py\" -v"
+  }
+}
